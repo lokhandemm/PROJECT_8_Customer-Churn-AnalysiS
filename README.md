@@ -1,5 +1,5 @@
 # Customer Churn Analysis 
-  
+   
 ## Project Overview 
 
 This project involves analyzing customer churn for a telecom company. The goal is to predict whether a customer will churn (leave the service) or not based on a variety of features. We will use machine learning techniques to build a model that can accurately predict churn based on historical data.
